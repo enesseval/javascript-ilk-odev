@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    text-align: center;
+    background-color: #2B3A42;
+    color: #F0F0DF;
+    padding-top: 25px;
+    height: 100vh;
+    font-size: 30px;
+    line-height: 100px;
+}
